@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kimbab97
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning SQL & Python
+- 👋 Hi, I’m Andi Angga
+- 👀 I’m interested in Data Analyst, Market Research & Business Development
+- 🌱 I’m currently working as Data Analyst & Market Research
 - 💞️ I’m looking to collaborate on Linkedin or social media
 - 📫 How to reach me on my Github
 
